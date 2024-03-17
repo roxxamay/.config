@@ -1,0 +1,129 @@
+2024-03-17 20:10:14.092 [info] Started initializing default profile extensions in extensions installation folder. file:///home/aaa/.vscode/extensions
+2024-03-17 20:10:14.398 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:10:14.481 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/aaa/.vscode/extensions Unable to create file 'vscode-userdata:/home/aaa/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-03-17 20:10:14.482 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/aaa/.vscode/extensions
+2024-03-17 20:10:15.553 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-17 20:10:37.048 [info] Getting Manifest... formulahendry.code-runner
+2024-03-17 20:10:37.059 [info] Installing extension: formulahendry.code-runner
+2024-03-17 20:10:38.118 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.code-runner
+2024-03-17 20:10:38.355 [info] Extracted extension to file:///home/aaa/.vscode/extensions/formulahendry.code-runner-0.12.1: formulahendry.code-runner
+2024-03-17 20:10:38.388 [info] Renamed to /home/aaa/.vscode/extensions/formulahendry.code-runner-0.12.1
+2024-03-17 20:10:38.391 [info] Extracting extension completed. formulahendry.code-runner
+2024-03-17 20:10:38.407 [info] Extension installed successfully: formulahendry.code-runner
+2024-03-17 20:10:38.477 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:10:38.550 [info] Getting Manifest... esbenp.prettier-vscode
+2024-03-17 20:10:38.561 [info] Installing extension: esbenp.prettier-vscode
+2024-03-17 20:10:40.952 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2024-03-17 20:10:41.147 [info] Extracted extension to file:///home/aaa/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2024-03-17 20:10:41.184 [info] Renamed to /home/aaa/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2024-03-17 20:10:41.186 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-03-17 20:10:41.199 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-03-17 20:10:41.268 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:11:19.332 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2024-03-17 20:11:19.342 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2024-03-17 20:11:20.295 [info] Getting Manifest... ms-vscode.cpptools
+2024-03-17 20:11:20.382 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-03-17 20:11:20.821 [info] Getting Manifest... twxs.cmake
+2024-03-17 20:11:20.874 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-03-17 20:11:21.067 [info] Installing extension: ms-vscode.cpptools
+2024-03-17 20:11:21.067 [info] Installing extension: ms-vscode.cmake-tools
+2024-03-17 20:11:21.068 [info] Installing extension: twxs.cmake
+2024-03-17 20:11:21.068 [info] Installing extension: ms-vscode.cpptools-themes
+2024-03-17 20:11:28.570 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools-themes
+2024-03-17 20:11:28.592 [info] Extracted extension to file:///home/aaa/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2024-03-17 20:11:28.599 [info] Renamed to /home/aaa/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2024-03-17 20:11:28.601 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2024-03-17 20:11:28.685 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:11:30.081 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools-extension-pack
+2024-03-17 20:11:30.092 [info] Extracted extension to file:///home/aaa/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0: ms-vscode.cpptools-extension-pack
+2024-03-17 20:11:30.099 [info] Renamed to /home/aaa/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2024-03-17 20:11:30.101 [info] Extracting extension completed. ms-vscode.cpptools-extension-pack
+2024-03-17 20:11:30.183 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:11:30.778 [warning] Extension signature verification failed with error 'UnknownError': twxs.cmake
+2024-03-17 20:11:30.970 [info] Extracted extension to file:///home/aaa/.vscode/extensions/twxs.cmake-0.0.17: twxs.cmake
+2024-03-17 20:11:30.977 [info] Renamed to /home/aaa/.vscode/extensions/twxs.cmake-0.0.17
+2024-03-17 20:11:30.979 [info] Extracting extension completed. twxs.cmake
+2024-03-17 20:11:31.061 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:11:32.587 [info] Getting Manifest... cschlosser.doxdocgen
+2024-03-17 20:11:32.599 [info] Installing extension: cschlosser.doxdocgen
+2024-03-17 20:11:37.394 [warning] Extension signature verification failed with error 'UnknownError': cschlosser.doxdocgen
+2024-03-17 20:11:38.382 [info] Extracted extension to file:///home/aaa/.vscode/extensions/cschlosser.doxdocgen-1.4.0: cschlosser.doxdocgen
+2024-03-17 20:11:38.392 [info] Renamed to /home/aaa/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+2024-03-17 20:11:38.394 [info] Extracting extension completed. cschlosser.doxdocgen
+2024-03-17 20:11:38.409 [info] Extension installed successfully: cschlosser.doxdocgen
+2024-03-17 20:11:38.466 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cmake-tools
+2024-03-17 20:11:38.476 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-17 20:11:38.813 [info] Extracted extension to file:///home/aaa/.vscode/extensions/ms-vscode.cmake-tools-1.17.17: ms-vscode.cmake-tools
+2024-03-17 20:11:38.848 [info] Renamed to /home/aaa/.vscode/extensions/ms-vscode.cmake-tools-1.17.17
+2024-03-17 20:11:38.857 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.858 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.858 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.858 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.858 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.858 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.859 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.860 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.860 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarLength.description.
+2024-03-17 20:11:38.861 [info] Extracting extension completed. ms-vscode.cmake-tools
+2024-03-17 20:11:38.945 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aaa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

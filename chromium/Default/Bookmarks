@@ -1,0 +1,58 @@
+{
+   "checksum": "e50207670616c4e50efd7c512f1a8ead",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13354891182603586",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13354891930459373",
+            "date_last_used": "0",
+            "guid": "739ea63b-d67a-47ca-ab03-a9f3a2f6a068",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Saindhav.2024.720p.DS4K.SDR.10bit.WEBRip.TAM-TEL-MAL.6CH.x265.HEVC-OlaM.mkv - OMDrive",
+            "type": "url",
+            "url": "https://drive.olamovies.bar/file/i2qvvpXWappHGwb22pB7Y73hQmfm-6g0vba5gPS_Mn2mKsV1ecBioizwFw2S9rkr"
+         }, {
+            "date_added": "13355125672446897",
+            "date_last_used": "0",
+            "guid": "d98fe1b0-0860-4346-b103-51cfc2d3dd7d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": ".::Welcome to the Web-Based Configurator::.",
+            "type": "url",
+            "url": "http://192.168.1.1/cgi-bin/login_advance.cgi"
+         } ],
+         "date_added": "13354891182603594",
+         "date_last_used": "0",
+         "date_modified": "13355125672446897",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354891182603597",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

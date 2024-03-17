@@ -1,0 +1,21 @@
+2024/03/17-19:56:20.332 921cd Reusing MANIFEST /home/aaa/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/17-19:56:20.332 921cd Recovering log #82
+2024/03/17-19:56:20.361 921cd Reusing old log /home/aaa/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000082.log 
+2024/03/17-20:02:28.146 921c1 Level-0 table #87: started
+2024/03/17-20:02:28.166 921c1 Level-0 table #87: 1434629 bytes OK
+2024/03/17-20:02:28.172 921c1 Delete type=0 #82
+2024/03/17-20:04:25.327 921c1 Compacting 1@1 + 1@2 files
+2024/03/17-20:04:25.357 921c1 Generated table #88@1: 367 keys, 31449 bytes
+2024/03/17-20:04:25.357 921c1 Compacted 1@1 + 1@2 files => 31449 bytes
+2024/03/17-20:04:25.368 921c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/17-20:04:25.369 921c1 Delete type=2 #87
+2024/03/17-20:04:25.369 921c1 Delete type=2 #84
+2024/03/17-20:09:35.187 921c1 Level-0 table #90: started
+2024/03/17-20:09:35.204 921c1 Level-0 table #90: 1257896 bytes OK
+2024/03/17-20:09:35.211 921c1 Delete type=0 #86
+2024/03/17-20:10:18.422 921c1 Compacting 1@1 + 1@2 files
+2024/03/17-20:10:18.463 921c1 Generated table #91@1: 424 keys, 46251 bytes
+2024/03/17-20:10:18.464 921c1 Compacted 1@1 + 1@2 files => 46251 bytes
+2024/03/17-20:10:18.471 921c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/17-20:10:18.472 921c1 Delete type=2 #88
+2024/03/17-20:10:18.472 921c1 Delete type=2 #90

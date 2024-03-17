@@ -1,0 +1,25 @@
+2024/03/17-17:57:57.162 28cd7 Reusing MANIFEST /home/aaa/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/17-17:57:57.164 28cd7 Recovering log #496
+2024/03/17-17:57:57.164 28cd7 Reusing old log /home/aaa/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000496.log 
+2024/03/17-17:58:44.295 28ccb Level-0 table #511: started
+2024/03/17-17:58:44.330 28ccb Level-0 table #511: 1273374 bytes OK
+2024/03/17-17:58:44.336 28ccb Delete type=0 #496
+2024/03/17-17:58:44.416 28cce Compacting 1@0 + 0@1 files
+2024/03/17-17:58:44.460 28cce Generated table #512@0: 26329 keys, 669114 bytes
+2024/03/17-17:58:44.466 28cce Generated table #513@0: 2 keys, 1460 bytes
+2024/03/17-17:58:44.466 28cce Compacted 1@0 + 0@1 files => 670574 bytes
+2024/03/17-17:58:44.473 28cce compacted to: files[ 0 2 10 0 0 0 0 ]
+2024/03/17-17:58:44.674 28cce Compacting 1@1 + 10@2 files
+2024/03/17-17:58:44.769 28cce Generated table #514@1: 70026 keys, 2312070 bytes
+2024/03/17-17:58:44.850 28cce Generated table #515@1: 19456 keys, 2268358 bytes
+2024/03/17-17:58:44.906 28cce Generated table #516@1: 4004 keys, 2160471 bytes
+2024/03/17-17:58:44.965 28cce Generated table #517@1: 3873 keys, 2161642 bytes
+2024/03/17-17:58:45.036 28cce Generated table #518@1: 5311 keys, 2161040 bytes
+2024/03/17-17:58:45.186 28cce Generated table #519@1: 31905 keys, 2249800 bytes
+2024/03/17-17:58:45.284 28cce Generated table #520@1: 30598 keys, 2248773 bytes
+2024/03/17-17:58:45.349 28cce Generated table #521@1: 37308 keys, 2168667 bytes
+2024/03/17-17:58:45.453 28cce Generated table #522@1: 99512 keys, 2250750 bytes
+2024/03/17-17:58:45.522 28cce Generated table #523@1: 65368 keys, 1496440 bytes
+2024/03/17-17:58:45.522 28cce Compacted 1@1 + 10@2 files => 21478011 bytes
+2024/03/17-17:58:45.530 28cce compacted to: files[ 0 1 10 0 0 0 0 ]
+2024/03/17-17:58:45.531 28cce Delete type=2 #511

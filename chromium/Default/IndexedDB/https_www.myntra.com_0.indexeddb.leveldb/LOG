@@ -1,0 +1,6 @@
+2024/03/17-11:03:10.618 13de7 Creating DB /home/aaa/.config/chromium/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb since it was missing.
+2024/03/17-11:03:10.635 13de7 Reusing MANIFEST /home/aaa/.config/chromium/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/17-11:03:10.905 13de7 Level-0 table #5: started
+2024/03/17-11:03:10.910 13de7 Level-0 table #5: 1243 bytes OK
+2024/03/17-11:03:10.917 13de7 Delete type=0 #3
+2024/03/17-11:03:10.917 13de7 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
