@@ -1,0 +1,185 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Rofi Theme File
+ * Rofi Version: 1.7.3
+ **/
+
+/*****----- Configuration -----*****/
+configuration {
+	modi:                       "drun,run,filebrowser,window";
+    show-icons:                 true;
+    display-drun:               "";
+    display-run:                "";
+    display-filebrowser:        "";
+    display-window:             "";
+	drun-display-format:        "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";
+	window-format:              "{w}   {c}   {t}";
+}
+
+/*****----- Global Properties -----*****/
+* {
+    font:                        "Iosevka Nerd Font 10";
+}
+
+/*****----- Main Window -----*****/
+window {
+    /* properties for window widget */
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  false;
+    width:                       800px;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    /* properties for all widgets */
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    border-radius:               20px;
+    cursor:                      "default";
+    background-color:            #191724; /* Background color - Rose Pine Background */
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                     true;
+    spacing:                     25px;
+    padding:                     50px;
+    background-color:            transparent;
+    children:                    [ "inputbar", "message","listview", "mode-switcher" ];
+}
+
+/*****----- Inputbar -----*****/
+inputbar {
+    enabled:                     true;
+    spacing:                     0px;
+    margin:                      0px 200px;
+    padding:                     5px;
+    border:                      1px;
+    border-radius:               100%;
+    border-color:                #2E3440; /* Inputbar border color - Rose Pine Frost */
+    background-color:            transparent;
+    children:                    [ "textbox-prompt-colon", "entry" ];
+}
+
+textbox-prompt-colon {
+    enabled:                     true;
+    expand:                      false;
+    padding:                     8px 11px;
+    border-radius:               100%;
+    background-color:            #F8F8F2; /* Input prompt background - Rose Pine Moon */
+    text-color:                  #282A36; /* Input prompt text color - Rose Pine Frost */
+    str:                         "";
+}
+entry {
+    enabled:                     true;
+    padding:                     8px 12px;
+    border:                      0px;
+    background-color:            transparent;
+    text-color:                  #F8F8F2; /* Input text color - Rose Pine Moon */
+    cursor:                      text;
+    placeholder:                 "Search...";
+    placeholder-color:           inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+}
+
+/*****----- Listview -----*****/
+listview {
+    enabled:                     true;
+    columns:                     2;
+    lines:                       10;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    reverse:                     false;
+    fixed-height:                true;
+    fixed-columns:               true;
+    
+    spacing:                     10px;
+    background-color:            transparent;
+    cursor:                      "default";
+}
+
+/*****----- Elements -----*****/
+element {
+    enabled:                     true;
+    spacing:                     10px;
+    margin:                      0px;
+    padding:                     5px;
+    border:                      0px;
+    border-radius:               100%;
+    border-color:                #2E3440; /* Element border color - Rose Pine Frost */
+    background-color:            transparent;
+    text-color:                  #8BE9FD; /* Element text color - Rose Pine Cyan */
+    cursor:                      pointer;
+}
+element normal.active {
+    background-image:            linear-gradient(to right, #575279, #4D4B89); /* Element active background - Rose Pine Frost Deepest */
+    text-color:                  #FF79C6; /* Element active text color - Rose Pine Bubblegum */
+}
+element selected.normal {
+    background-image:            linear-gradient(to right, #575279, #4D4B89); /* Selected element normal background - Rose Pine Frost Deepest */
+    text-color:                  #FFB86C; /* Selected element normal text color - Rose Pine Flamingo */
+}
+element selected.active {
+    background-image:            linear-gradient(to right, #575279, #4D4B89); /* Selected element active background - Rose Pine Frost Deepest */
+    text-color:                  #FF5555; /* Selected element active text color - Rose Pine Pink */
+}
+element-icon {
+    background-color:            transparent;
+    size:                        24px;
+    cursor:                      inherit;
+}
+element-text {
+    background-color:            inherit;
+    text-color:                  inherit;
+    cursor:                      inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+}
+
+/*****----- Mode Switcher -----*****/
+mode-switcher{
+    enabled:                     true;
+    expand:                      false;
+    spacing:                     0px;
+    margin:                      0px 200px;
+    padding:                     12px;
+    border-radius:               100%;
+    background-color:            #2E3440; /* Mode switcher background color - Rose Pine Frost */
+}
+button {
+    background-color:            inherit;
+    text-color:                  #F8F8F2; /* Button text color - Rose Pine Moon */
+    cursor:                      pointer;
+}
+button selected {
+    background-color:            inherit;
+    text-color:                  #FF79C6; /* Selected button text color - Rose Pine Bubblegum */
+}
+
+/*****----- Message -----*****/
+error-message {
+    padding:                     20px;
+    background-color:            #191724; /* Error message background color - Rose Pine Background */
+    text-color:                  #FF5555; /* Error message text color - Rose Pine Pink */
+}
+message {
+    padding:                     0px;
+    background-color:            inherit;
+    text-color:                  #FF79C6; /* Message text color - Rose Pine Bubblegum */
+}
+textbox {
+    padding:                     0px;
+    border-radius:               0px;
+    background-color:            inherit;
+    text-color:                  inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+}
