@@ -1,9 +1,0 @@
-2024/03/17-19:56:14.313 921c4 Reusing MANIFEST /home/aaa/.config/chromium/Default/shared_proto_db/MANIFEST-000001
-2024/03/17-19:56:14.313 921c4 Recovering log #7
-2024/03/17-19:56:14.315 921c4 Reusing old log /home/aaa/.config/chromium/Default/shared_proto_db/000007.log 
-2024/03/17-20:04:47.930 921c0 Compacting 1@1 + 1@2 files
-2024/03/17-20:04:47.965 921c0 Generated table #10@1: 151 keys, 7937 bytes
-2024/03/17-20:04:47.965 921c0 Compacted 1@1 + 1@2 files => 7937 bytes
-2024/03/17-20:04:47.971 921c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/17-20:04:47.971 921c0 Delete type=2 #5
-2024/03/17-20:04:47.971 921c0 Delete type=2 #8
