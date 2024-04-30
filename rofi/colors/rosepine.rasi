@@ -1,0 +1,8 @@
+* {
+    background:     #191724; /* Rose Pine background, a deep rose */
+    background-alt: #26233a; /* Slightly lighter shade for alternative backgrounds */
+    foreground:     #e0def4; /* Soft off-white for foreground text */
+    selected:       #9ccfd8; /* Soft blue for selections, similar to Rose Pine Moon accent */
+    active:         #c4a7e7; /* Light purple for active items, harmonizing with the Rose Pine theme */
+    urgent:         #eb6f92; /* Bright rose/pink for urgent elements, characteristic of Rose Pine */
+}
