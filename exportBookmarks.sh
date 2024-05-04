@@ -18,7 +18,7 @@ EOF
 CURRENT_DIR=$(pwd)
 
 # Copy the bookmarks file to the current working directory with a date-stamped filename
-cp ~/.config/chromium/Default/Bookmarks "$CURRENT_DIR/ChromiumBookmarks.json"
+cp ~/.config/chromium/Default/Bookmarks "$CURRENT_DIR/Bookmarks"
 
 
 
