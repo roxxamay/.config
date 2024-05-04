@@ -1,0 +1,85 @@
+{
+   "checksum": "6435bca0de80819ada94c7133d76ff68",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13359226910329049",
+            "date_last_used": "0",
+            "date_modified": "13359226910329049",
+            "guid": "94954895-07f8-4a0b-a55c-6c12ce9a288b",
+            "id": "5",
+            "name": "GITHUB",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13359226919513154",
+            "date_last_used": "0",
+            "date_modified": "13359226919513154",
+            "guid": "0e0852e6-21cc-48e1-b660-ab9571b45634",
+            "id": "6",
+            "name": "STUDY",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13359281010032845",
+               "date_last_used": "0",
+               "guid": "44f614a4-6682-4297-af8c-90d303665ce0",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(83) Arjun Kanungo, Momina Mustehsan - Aaya Na Tu - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PHULePbksEU&list=RDmU7ht2SQ1FY&index=2"
+            }, {
+               "date_added": "13359281484176419",
+               "date_last_used": "0",
+               "guid": "496d90da-e0c7-42c3-9535-7118028947fd",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ASCII Text Art Converter - 𝐓𝐞𝐱𝐭𝐅𝐚𝐧𝐜𝐲.𝐜𝐨𝐦",
+               "type": "url",
+               "url": "https://textfancy.com/text-art/"
+            } ],
+            "date_added": "13359226934353847",
+            "date_last_used": "0",
+            "date_modified": "13359281484176419",
+            "guid": "a87867c4-1db3-48a9-afa3-e80a96d7eb86",
+            "id": "7",
+            "name": "PROJECT",
+            "type": "folder"
+         } ],
+         "date_added": "13359218260783700",
+         "date_last_used": "0",
+         "date_modified": "13359226934355012",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13359218260783707",
+         "date_last_used": "0",
+         "date_modified": "13359281010032845",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13359218260783709",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
