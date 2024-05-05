@@ -1,5 +1,5 @@
 {
-   "checksum": "3095076978a7728d52a96ad48970ea99",
+   "checksum": "0659cccb5b311db17aeac93a13cd446b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -43,10 +43,21 @@
                "name": "ASCII Text Art Converter - 𝐓𝐞𝐱𝐭𝐅𝐚𝐧𝐜𝐲.𝐜𝐨𝐦",
                "type": "url",
                "url": "https://textfancy.com/text-art/"
+            }, {
+               "date_added": "13359387364125806",
+               "date_last_used": "0",
+               "guid": "a206da0a-5923-4488-825b-909a5d30850b",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Ultimate Samsung (OneUI) Debloat, Privacy & Customization Guide : r/samsung",
+               "type": "url",
+               "url": "https://www.reddit.com/r/samsung/comments/rzhz13/ultimate_samsung_oneui_debloat_privacy/?rdt=60428&onetap_auto=true&one_tap=true"
             } ],
             "date_added": "13359226934353847",
             "date_last_used": "0",
-            "date_modified": "13359281484176419",
+            "date_modified": "13359387368255895",
             "guid": "a87867c4-1db3-48a9-afa3-e80a96d7eb86",
             "id": "7",
             "name": "PROJECT",
@@ -66,7 +77,7 @@
             } ],
             "date_added": "13359281883450469",
             "date_last_used": "0",
-            "date_modified": "13359281891034790",
+            "date_modified": "13359387364125806",
             "guid": "e9293bb1-65da-4e64-9eac-02a7d306dfa5",
             "id": "11",
             "name": "SONGS",
