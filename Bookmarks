@@ -1,5 +1,5 @@
 {
-   "checksum": "0659cccb5b311db17aeac93a13cd446b",
+   "checksum": "2541ad9c0eb9a688df06bb4d7e27995b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -54,10 +54,32 @@
                "name": "Ultimate Samsung (OneUI) Debloat, Privacy & Customization Guide : r/samsung",
                "type": "url",
                "url": "https://www.reddit.com/r/samsung/comments/rzhz13/ultimate_samsung_oneui_debloat_privacy/?rdt=60428&onetap_auto=true&one_tap=true"
+            }, {
+               "date_added": "13359648360244701",
+               "date_last_used": "0",
+               "guid": "6841b955-09e6-4463-835c-3d351b7a92bd",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(85) Automatically Change Wallpaper and Terminal Colour Scheme with Pywal and Bash Scripting - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=tsGaUBdUQSA"
+            }, {
+               "date_added": "13359735328484669",
+               "date_last_used": "0",
+               "guid": "1ecbd01b-4b29-4089-b48c-6b2c750a90a9",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(86) 03 Shell Script Spinner Animation Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=93i8txD0H3Q"
             } ],
             "date_added": "13359226934353847",
             "date_last_used": "0",
-            "date_modified": "13359387368255895",
+            "date_modified": "13359735328484669",
             "guid": "a87867c4-1db3-48a9-afa3-e80a96d7eb86",
             "id": "7",
             "name": "PROJECT",
@@ -82,10 +104,30 @@
             "id": "11",
             "name": "SONGS",
             "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13359839182399385",
+               "date_last_used": "13359839299479405",
+               "guid": "661590d0-7848-486a-aa40-23f733606f82",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Photos - Google Photos",
+               "type": "url",
+               "url": "https://photos.google.com/?pli=1"
+            } ],
+            "date_added": "13359839177397521",
+            "date_last_used": "0",
+            "date_modified": "13359839185924154",
+            "guid": "05de34ee-b8fb-45c0-93de-1e5e1c83f4ea",
+            "id": "20",
+            "name": "PERSONAL",
+            "type": "folder"
          } ],
          "date_added": "13359218260783700",
          "date_last_used": "0",
-         "date_modified": "13359281886619918",
+         "date_modified": "13359839182399385",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
