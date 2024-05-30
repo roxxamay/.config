@@ -1,5 +1,5 @@
 {
-   "checksum": "2541ad9c0eb9a688df06bb4d7e27995b",
+   "checksum": "60f2de0885421debeefe824c01275984",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -34,7 +34,7 @@
                "url": "https://www.youtube.com/watch?v=PHULePbksEU&list=RDmU7ht2SQ1FY&index=2"
             }, {
                "date_added": "13359281484176419",
-               "date_last_used": "0",
+               "date_last_used": "13360611380524399",
                "guid": "496d90da-e0c7-42c3-9535-7118028947fd",
                "id": "10",
                "meta_info": {
@@ -76,10 +76,21 @@
                "name": "(86) 03 Shell Script Spinner Animation Tutorial - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=93i8txD0H3Q"
+            }, {
+               "date_added": "13360298097706496",
+               "date_last_used": "13360587567445197",
+               "guid": "a8416b41-7c2a-48aa-b3fa-e0e06ace4bdb",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "1-Web - App Development (All related Courses to Web and App Dev) - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/folders/1Yzh_0M6KLu3iQoXYfPF-3514ifHgeWSV"
             } ],
             "date_added": "13359226934353847",
             "date_last_used": "0",
-            "date_modified": "13359735328484669",
+            "date_modified": "13360329903579947",
             "guid": "a87867c4-1db3-48a9-afa3-e80a96d7eb86",
             "id": "7",
             "name": "PROJECT",
@@ -116,18 +127,115 @@
                "name": "Photos - Google Photos",
                "type": "url",
                "url": "https://photos.google.com/?pli=1"
+            }, {
+               "date_added": "13360229146771158",
+               "date_last_used": "0",
+               "guid": "1d15158d-6a0b-4d79-93c5-919f4ad63460",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "android-debloat-list/google.json at master · MuntashirAkon/android-debloat-list",
+               "type": "url",
+               "url": "https://github.com/MuntashirAkon/android-debloat-list/blob/master/google.json"
+            }, {
+               "date_added": "13361382830166208",
+               "date_last_used": "0",
+               "guid": "ac95b17b-cbc1-4b2a-955d-89bbf338e551",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "✔ Compress PDF - quick, online, free - PDF24 Tools",
+               "type": "url",
+               "url": "https://tools.pdf24.org/en/compress-pdf#s=1716909188350"
             } ],
             "date_added": "13359839177397521",
             "date_last_used": "0",
-            "date_modified": "13359839185924154",
+            "date_modified": "13361395888788374",
             "guid": "05de34ee-b8fb-45c0-93de-1e5e1c83f4ea",
             "id": "20",
             "name": "PERSONAL",
             "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13360329903579947",
+               "date_last_used": "0",
+               "guid": "614a71aa-eae5-4daf-be8d-3b6f260e59d9",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(90) Harvard CS50 – Full Computer Science University Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8mAITcNt710&t=133s"
+            }, {
+               "date_added": "13360588479848427",
+               "date_last_used": "0",
+               "guid": "a4333607-92c7-41bc-b311-269e5e34d901",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "100xDevs",
+               "type": "url",
+               "url": "https://harkirat.classx.co.in/new-courses/8-live-0-100-complete"
+            }, {
+               "date_added": "13361306856864334",
+               "date_last_used": "13361392731947978",
+               "guid": "f56fb58d-4c91-4b4c-b772-fe2987043fa7",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(99) Learn HTML & CSS – Full Course for Beginners - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=a_iQb1lnAEQ"
+            } ],
+            "date_added": "13360329942641280",
+            "date_last_used": "0",
+            "date_modified": "13361376835523734",
+            "guid": "6c1abb02-ee2e-49f5-849a-37e5a47f0b7e",
+            "id": "28",
+            "name": "LEC",
+            "type": "folder"
+         }, {
+            "date_added": "13361376835523734",
+            "date_last_used": "13361395881253358",
+            "guid": "5af61d3e-5937-4446-9426-7560e102554d",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/roxxamay/"
+         }, {
+            "date_added": "13361395888788374",
+            "date_last_used": "13361518320316962",
+            "guid": "106b6c63-2589-435c-96b1-c020f203a512",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Repo",
+            "type": "url",
+            "url": "https://github.com/roxxamay?tab=repositories"
+         }, {
+            "date_added": "13361466172488688",
+            "date_last_used": "0",
+            "guid": "34deb1b0-00ae-438e-b25f-c42205125bc0",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "learn-html-and-css/1. Build and deploy your first website/9. Lets build Google/styles.css at main · scrimba/learn-html-and-css",
+            "type": "url",
+            "url": "https://github.com/scrimba/learn-html-and-css/blob/main/1.%20Build%20and%20deploy%20your%20first%20website/9.%20Lets%20build%20Google/styles.css"
          } ],
          "date_added": "13359218260783700",
          "date_last_used": "0",
-         "date_modified": "13359839182399385",
+         "date_modified": "13361466172488688",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
